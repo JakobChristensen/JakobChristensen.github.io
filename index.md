@@ -1,10 +1,12 @@
 ---
 title: Møllestrædet
+description: Velkommen
 ---
 
 # KIA ORA
 
-Velkommen til Møllestrædet!
+![Møllestrædet 8](/images/house.jpg)
+
 
 # BIOGRAF
 Sådan bruger I biografen. 
@@ -36,6 +38,9 @@ så åbner eller lukke de selv.
 Gulvene er ret bløde og får let hakker.
 
 > Undgå stilethæle.
+
+# INDKØB
+Asnæs centeret er stort og har mange butikker. 
 
 # RESTAURANTER
 
@@ -79,6 +84,12 @@ Lyngvej 73
 Tlf: 5930 2380  
 https://pottegården.dk  
 (7,4km, 10 min)
+
+
+# TV
+
+## Soveværelse
+For at slukke TV'et helt, hold Tænd/Sluk knappen nede i 2 sekunder.
 
 
 # WI-FI
