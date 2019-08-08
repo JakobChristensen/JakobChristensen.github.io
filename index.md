@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+---
+title: Møllestrædet
+---
 
-You can use the [editor on GitHub](https://github.com/JakobChristensen/JakobChristensen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Kia Ora
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Velkommen til Møllestrædet!
 
-### Markdown
+# Restauranter i nærheden
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Pottegryden
+Pottengryden serverer dansk kromad, og der er en butik med keramik.
 
-# Header 1
-## Header 2
-### Header 3
+<u>Adresse:</u>  
+Lyngvej 73  
+4573 Højby  
+Tlf: 5930 2380  
+https://xn--pottegrden-65a.dk/  
+(7,4km, 10 min)
 
-- Bulleted
-- List
+## Lærkereden
+Lærkereden serverer dansk kromad, og maden kan afhentes. Der er dagens ret hver dag, men der kan være lukket på¨
+enkelte dage.
 
-1. Numbered
-2. List
+<u>Adresse:</u>  
+Strandlystvej 9  
+4560 Vig  
+Tlf: 5931 5717  
+Mobil: 2947 9545  
+http://www.xn--restaurantlrkereden-vxb.dk/  
+(4,4km, 5 min)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Cafe Viella
+Cafe Viella serverer cafe mad og pizzaer.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<u>Adresse:</u>  
+Enghaven 1  
+4550 Asnæs
+Tlf:  5965 2123  
+(3,3km, 6 min)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JakobChristensen/JakobChristensen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
