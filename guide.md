@@ -14,9 +14,9 @@ Sådan bruger I biografen.
 
 Fjernbetjeninger til lærred og Apple TV ligger i det hvide skab til længst til højre.
 
-1. Tænd Apple TV ved at klikke på fjernbetjningen.
+1. Tænd Apple TV ved at klikke på Apple TV fjernbetjningen.
 1. Tænd projektoren ved at trykke på tænd/sluk knappen på højre side af projektoren.
-1. Kør lærredet ned ved at trykke på den nederste knap på fjernbetjeningen.
+1. Kør lærredet ned ved at trykke på den nederste knap på lærred fjernbetjeningen.
 1. Når du kan se den sort kant foroven af lærredet, stop det ved at trykke på den midterste knap.
 
 I kan se Netflix, HBO, DR, TV2 Play mm. I kan også se Jakobs samling af film (ca. 1.000 stk) ved at bruge 
@@ -25,7 +25,7 @@ Infuse app'en på Apple TV.
 Når I er færdige med at bruge biografen.
 
 1. Sluk projektoren ved at trykke 2 gange på tænd/sluk knappen på højre side af projektoren.
-2. Kør lærredet op ved at trykke på den øverste knap på fjernbetjeningen. Lærredet stopper selv, når det er 
+2. Kør lærredet op ved at trykke på den øverste knap på lærred fjernbetjeningen. Lærredet stopper selv, når det er 
 kørt helt op.
 
 # EMHÆTTE
@@ -64,7 +64,7 @@ Cafe Viella serverer cafe mad og pizzaer.
 
 <u>Adresse:</u>  
 Enghaven 1  
-4550 Asnæs
+4550 Asnæs  
 Tlf: 5965 2123  
 [Kort til Cafe Viella](https://www.google.com/maps/dir/Møllestrædet+8,+4550+Asnæs/Enghaven+1,+4550+Asnæs)
 
@@ -73,9 +73,9 @@ Dragholm Slot har Michelin mad på deres restaurant, men deres bistro er også v
 
 <u>Adresse:</u>  
 Dragsholm Alle  
-4534 Hørve
+4534 Hørve  
 Tlf: 5965 3300  
-https://www.dragsholm-slot.dk  
+[https://www.dragsholm-slot.dk](https://www.dragsholm-slot.dk)  
 [Kort til Dragsholm Slot](https://www.google.com/maps/dir/Møllestrædet+8,+4550+Asnæs/Dragsholm+Alle,+4534+Hørve)
 
 ## Lærkereden :star::star::star:
@@ -87,7 +87,7 @@ Strandlystvej 9
 4560 Vig  
 Tlf: 5931 5717  
 Mobil: 2947 9545  
-http://www.restaurantlærkereden.dk  
+[http://www.restaurantlærkereden.dk](http://www.restaurantlærkereden.dk)  
 [Kort til Lærkereden](https://www.google.com/maps/dir/Møllestrædet+8,+4550+Asnæs/Strandlystvej+9,+4560+Vig/)
 
 ## Pottegryden :star::star:
@@ -97,7 +97,7 @@ Pottengryden serverer dansk kromad, og der er en butik med keramik.
 Lyngvej 73  
 4573 Højby  
 Tlf: 5930 2380  
-https://pottegården.dk  
+[https://pottegården.dk](https://pottegården.dk)  
 [Kort til Pottegryden](https://www.google.com/maps/dir/Møllestrædet+8,+4550+Asnæs/Lyngvej+73,+4573+Højby)
 
 # TV
