@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
+title: Møllestrædet
+description: Velkommen til Møllestrædet
 plugins:
   - jemoji
